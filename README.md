@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @data-pipeline-ns
-- 👀 I’m interested in creating error-proof data pipelines
+- 👋 Hi, I’m @datamit-tech
+- 👀 I’m interested in creating error-proof data pipelines and marketplace
 - 🌱 I’m currently exploring data
 - 💞️ I’m looking to collaborate on pipeline notifications
 - 📫 How to reach me: Mail me at data.pipeline.ns@gmail.com
